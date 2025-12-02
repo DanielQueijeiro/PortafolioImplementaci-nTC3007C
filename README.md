@@ -5,3 +5,5 @@ Se incluye:
 - El pdf con las ligas de evidencias del módulo de estadística.
 - El pdf con la liga al repositorio del módulo 2 de deep learning.
 - Los dos ipynb del módulo 3 de procesamiento de lenguaje natural.
+
+Dentro de los pdfs se mencionan las correcciones realizadas a las evidencias, si no cuenta con ese apartado no se recibio retroalimentación o no se realizo ningún cambio.
